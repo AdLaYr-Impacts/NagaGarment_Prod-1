@@ -272,6 +272,7 @@ nav{
         display: inline;
         line-height: 1.5;
         word-spacing: 2px;
+        font-size: 13px;
     }
     #garment{
         font-size: 12px;
@@ -282,7 +283,7 @@ nav{
         position: relative;
         z-index: 1;
         color: whitesmoke;
-        font-size: 32px;
+        font-size: 30px;
         font-weight: bold;
     }
     .info-cards{
