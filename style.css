@@ -267,12 +267,16 @@ nav{
     }
     #ban-con{
         margin-top: -50px;
+        margin: 0px 10px;
+    }
+    #cont{
+        margin: 0px 25px;
     }
     #cont p{
         display: inline;
         line-height: 1.5;
         word-spacing: 2px;
-        font-size: 13px;
+        font-size: 14px;
     }
     #garment{
         font-size: 12px;
@@ -283,7 +287,7 @@ nav{
         position: relative;
         z-index: 1;
         color: whitesmoke;
-        font-size: 30px;
+        font-size: 35px;
         font-weight: bold;
     }
     .info-cards{
